@@ -1,5 +1,2 @@
 AC
 DC
-BC
-Microwave
-Laser
